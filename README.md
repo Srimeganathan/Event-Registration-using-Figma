@@ -1,4 +1,4 @@
-## Ex09 Event-Registration-using-Figma
+## Ex 09: Event-Registration-using-Figma
 ## Date: 22.11.2025
 
 ## AIM:
